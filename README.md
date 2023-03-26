@@ -1,5 +1,5 @@
 # wallpaper-scraper
-Fetch a random wallpaper from top posts on r/wallpaper 
+Fetch a random wallpaper from top posts on r/wallpaper (Only for Windows currently)
 
 # Requirements
 Create a new Reddit app [here](https://www.reddit.com/prefs/apps) for appropriate credentials
